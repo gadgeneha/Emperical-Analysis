@@ -2,9 +2,9 @@
 
 A C++ based empirical analysis of linear time sorting algorithms : Bucket, Radix and Counting Sort.
 Parameters considered :
-Radix : Base
-Bucket: Distribution
-Counting : Range
+Radix : Base, 
+Bucket: Distribution, 
+Counting : Range. 
 
 Aimed at analysing and visualising  propeeties of sorting algorithms. 
 
@@ -12,9 +12,9 @@ Aimed at analysing and visualising  propeeties of sorting algorithms.
 It analyzes properties of pre-inputted sorting algorithms such as
 
 The state of the sequence:
-Sorted
-Reverse Sorted
-Unsorted
+Sorted, 
+Reverse Sorted, 
+Unsorted. 
 The maximum peak of the sequence i.e. The maximum possible element
 The size of the sequence i.e. The no of elements
 
